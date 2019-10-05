@@ -12,3 +12,9 @@ Learning to use flutter from scratch and building a simple project based on what
 
 ## Useful libraries 
 * 
+
+## Working :
+````
+flutter doctor //To inspect system configuration pre-requisites confirmation
+flutter create <project_name> // Creates a flutter project of given name in current working directory 
+````
