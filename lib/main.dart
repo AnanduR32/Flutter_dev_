@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
-import 'dev_detail.dart';
-import 'models/dev.dart';
-import 'devs/details.dart';
+import 'dev_list.dart';
 
 void main() {
-  final Dev mockDev = Details.fetchAny();
-  return runApp(MaterialApp(
-    home: DevDetail(mockDev),
+  //final Dev mockDev = Details.fetchAny();
+  return runApp(MaterialApp(home: DevList([]),
     ));
 }
