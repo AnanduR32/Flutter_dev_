@@ -20,7 +20,7 @@ A new Flutter project.
 flutter doctor //To inspect system configuration pre-requisites confirmation
 flutter create <project_name> // Creates a flutter project of given name in current working directory 
 ````
-* Getting started if this is your first Flutter project:
+#### Getting started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
