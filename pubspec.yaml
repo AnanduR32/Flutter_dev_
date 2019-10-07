@@ -34,7 +34,31 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-
+  fonts:
+    - family: Quicksand-Regular
+      fonts:
+      - asset: fonts/Quicksand-Regular.ttf
+        weight: 400
+    - family: Quicksand-Light
+      fonts:
+      - asset: fonts/Quicksand-Light.ttf
+        weight: 400
+    - family: Quicksand-Medium
+      fonts:
+      - asset: fonts/Quicksand-Medium.ttf
+        weight: 400
+    - family: Quicksand-SemiBold
+      fonts:
+      - asset: fonts/Quicksand-SemiBold.ttf
+        weight: 400
+    - family: Quicksand-Bold
+      fonts:
+      - asset: fonts/Quicksand-Bold.ttf
+        weight: 400        
+    - family: Mansalva-Regular
+      fonts:
+      - asset: fonts/Mansalva-Regular.ttf
+        weight: 400
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
