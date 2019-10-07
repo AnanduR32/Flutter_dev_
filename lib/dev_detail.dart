@@ -49,7 +49,6 @@ class DevDetail extends StatelessWidget{
       padding: EdgeInsets.fromLTRB(5.0, 10.0, 5.0, 0.0),
       constraints: BoxConstraints.tightFor(height: height),
       child: Image.network(url,fit: BoxFit.fitWidth)
-      
     );
-  }
+  } 
 }

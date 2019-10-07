@@ -25,7 +25,7 @@ class Details extends Dev{
     ),
     Dev(
       name: 'Augustine S Aykara',
-      url: 'https://aykara4.com/augustine/images/vector.png',
+      url: 'https://aykara4.com/augustine/images/sketch.jpeg',
       facts: <DevFact>[
         DevFact(
           title: 'Who Am I?',
