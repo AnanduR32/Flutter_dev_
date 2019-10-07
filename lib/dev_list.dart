@@ -25,7 +25,7 @@ class DevList extends StatelessWidget{
     return Container(
     constraints: BoxConstraints.tightFor(width: 100),
     child:
-      Image.network(dev.url,fit: BoxFit.fitHeight)
+      Image.network(dev.url,fit: BoxFit.fitWidth)
     );
   }
   Widget _itemTitle(Dev dev){
