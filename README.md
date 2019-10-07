@@ -12,8 +12,11 @@ Learning to use flutter from scratch and building a simple project based on what
 * https://medium.com/flutter-community/flutter-create-and-deploy-a-website-from-scratch-4a026ebd6c
 A new Flutter project.
 
-## Useful libraries 
+## Useful libraries and tools
 * Material
+* https://colorhunt.co/
+* https://fonts.google.com/
+* https://unsplash.com/
 
 ## Working :
 ````
