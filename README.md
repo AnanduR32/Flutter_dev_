@@ -9,6 +9,7 @@ Learning to use flutter from scratch and building a simple project based on what
         * https://fluttercrashcourse.com/courses/basics/lessons/materialapp-scaffold-appbar-text
         * https://docs.google.com/document/d/1wbiXe81x1OWSqB-mSCWLOvIGngZpB3J6JAlD8CO6zyQ/edit?usp=sharing (documentation)
 * https://www.youtube.com/watch?v=pTJJsmejUOQ
+* https://medium.com/flutter-community/flutter-create-and-deploy-a-website-from-scratch-4a026ebd6c
 
 ## Useful libraries 
 * 
