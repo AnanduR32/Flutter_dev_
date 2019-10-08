@@ -29,6 +29,6 @@ class DevList extends StatelessWidget{
     );
   }
   Widget _itemTitle(Dev dev){
-    return Text(dev.name,style: Styles.textDefault);
+    return Text('${dev.name}',style: Styles.textDefault);
   }
 }
