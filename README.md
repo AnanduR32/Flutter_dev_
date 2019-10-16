@@ -1,4 +1,4 @@
-# aquasample32
+# AquaRegis32
 Learning to use flutter from scratch and building a simple project based on what's learnt
 
 ## Getting started 
